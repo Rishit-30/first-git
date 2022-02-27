@@ -1,1 +1,2 @@
-# first-git
+# Hello everyone
+I am Rishit Thakkar.
